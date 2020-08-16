@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://github-readme-stats.milmike.vercel.app/api?username=millsoft&show_icons=true&hide_border=true">
 
