@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/42coders/document-templates/issues/14) in [42coders/document-templates](https://github.com/42coders/document-templates)
+1. ❗️ Opened issue [#71](https://github.com/orf/gping/issues/71) in [orf/gping](https://github.com/orf/gping)
 2. ❗️ Closed issue [#1179](https://github.com/zadam/trilium/issues/1179) in [zadam/trilium](https://github.com/zadam/trilium)
 3. 🗣 Commented on [#1179](https://github.com/zadam/trilium/issues/1179) in [zadam/trilium](https://github.com/zadam/trilium)
 4. ❗️ Opened issue [#1179](https://github.com/zadam/trilium/issues/1179) in [zadam/trilium](https://github.com/zadam/trilium)
