@@ -1,5 +1,15 @@
 ### Hello World 👋
 
+my name is Michael.
+
+- 🔭 I’m currently working on a project for sending emails using symfony and vuejs
+- 🌱 I’m currently learning symfony and shopware
+- 👯 I’m looking to collaborate on php stuff
+- 📫 How to reach me: @MilMikeDev on twitter
+- ⚡ Fun fact: currently I skip dinners to get rid of my extra weight xD
+
+
+
 <!--
 
 
@@ -27,6 +37,3 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-<img src="https://novatorem-nine.vercel.app/api/spotify-playing" alt="spotify">
