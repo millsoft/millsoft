@@ -2,11 +2,10 @@
 
 my name is Michael.
 
-- 🔭 I’m currently working on a project for sending emails using symfony and vuejs
-- 🌱 I’m currently learning symfony, shopware, aws, ...
-- 👯 I’m looking to collaborate on php stuff
+- 🌱 I’m currently learning nextjs, react, php, ...
+- 👯 I’m looking to collaborate on php and react stuff
 - 📫 How to reach me: @MilMikeDev on twitter
-- ⚡ Fun fact: currently I skip dinners to get rid of my extra weight xD
+- ⚡ Fun fact: it works on my machine
 
 
 
@@ -25,8 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <img src="https://github-readme-stats.milmike.vercel.app/api?username=millsoft&show_icons=true&hide_border=true">
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
