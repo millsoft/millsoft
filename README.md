@@ -2,13 +2,6 @@
 
 my name is Michael.
 
-- 🌱 I’m currently learning nextjs, react, php, ...
-- 👯 I’m looking to collaborate on php and react stuff
-- 📫 How to reach me: @MilMikeDev on twitter
-- ⚡ Fun fact: it works on my machine
-
-
-
 <!--
 
 
