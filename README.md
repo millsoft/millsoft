@@ -1,6 +1,12 @@
 ### Hello World 👋
 
-my name is Michael.
+my name is Michael;
+
+I am a fullstack web developer with passion for linux and devops. I like to code mostly in php and work with symfony and laravel. I also work in frontend with JavaScript/TypeScript. Currently my fav libs / frameworks are react and vuejs. My goto db are currently mysql and postgres. Sometimes I am working with MongoDB;
+I like working with devops stuff too, eg. automating the deployments and working with Kubernetes;
+If you want to work with me, let me know: mm@millsoft.de
+
+EOF
 
 <!--
 
